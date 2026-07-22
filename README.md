@@ -32,7 +32,7 @@ Implementation of deep architectures for computer vision, end-to-end control, an
 
 ## University of Illinois Urbana-Champaign (UIUC)
 
-Coursework in data mining algorithms, statistical modeling, and applied quantitative analysis.
+Coursework from the Master of Computer Science program. Includes data mining algorithms, statistical modeling, and applied quantitative analysis.
 
 ### Data Mining
 
@@ -47,7 +47,7 @@ Coursework in data mining algorithms, statistical modeling, and applied quantita
 
 ## Embry-Riddle Aeronautical University (ERAU)
 
-Graduate coursework focused on unmanned systems engineering, autonomous platforms, and aerospace domain implementations.
+Graduate coursework from the Master of Science in Uncrewed and Autonomous Systems program. Focused on unmanned systems engineering, autonomous platforms, and aerospace domain implementations.
 
 ### Embry-Riddle Aeronautical University
 
